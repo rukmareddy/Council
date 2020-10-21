@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.11.0",
+    "libraryName": "cpim",
+    "libraryId": "066be1d8-6b6b-497e-b6ce-53a86af936f6",
+    "environment": "spo",
+    "packageManager": "npm",
+    "isCreatingSolution": false,
+    "isDomainIsolated": true,
+    "componentType": "webpart"
+  }
+}
